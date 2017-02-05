@@ -1,2 +1,0 @@
-# pywebrtc
-django based webrtc
